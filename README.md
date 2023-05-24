@@ -25,3 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmanenesunal&" alt="osmanenesunal" /></p>
 
+
+![snake gif](https://github.com/osmanenesunal/osmanenesunal/blob/output/github-contribution-grid-snake.gif)
+
