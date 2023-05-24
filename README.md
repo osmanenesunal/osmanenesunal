@@ -1,6 +1,3 @@
-[![MasterHead](http://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg
-
-
 
 <h1 align="center">Hi 👋, I'm Osman Enes Unal</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
