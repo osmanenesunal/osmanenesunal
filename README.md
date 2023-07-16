@@ -48,5 +48,4 @@ If you're looking for a frontend developer who can bring your ideas to life, cre
 
 
 
-![snake gif](https://github.com/osmanenesunal/osmanenesunal/blob/output/github-contribution-grid-snake.gif)
 
