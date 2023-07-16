@@ -9,7 +9,7 @@ Lately, I've been focusing on honing my skills in JavaScript and React, as I bel
 Throughout my journey, I've had the opportunity to work on various projects, collaborating with diverse teams and clients. This experience has not only improved my technical abilities but also strengthened my communication and problem-solving skills.
 </p><p>
 I'm a dedicated learner and always eager to explore new technologies and frameworks. I'm also open to constructive feedback and enjoy working in a collaborative environment where ideas are shared and knowledge is exchanged.</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanenesunal&show_icons=true&theme=tokyonight&title_color=ed0c0c&locale=en&layout=compact" alt="osmanenesunal" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanenesunal&show_icons=true&theme=tokyonight&title_color=ed0c0c&locale=en&layout=compact" alt="osmanenesunal" /></p> -->
 <p>
 If you're looking for a frontend developer who can bring your ideas to life, create delightful user experiences, and contribute to the success of your projects, I'd love to be a part of your team. Let's connect and create amazing web experiences together!"
 </p>
